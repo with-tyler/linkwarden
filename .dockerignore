@@ -6,8 +6,5 @@ pgdata
 .vscode
 .env.sample
 .gitignore
-.prettierignore
-.prettierrc.json
 LICENSE
-docker-compose.yml
 README.md
