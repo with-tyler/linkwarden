@@ -1,7 +1,13 @@
 node_modules
 pgdata
-.env
 .devcontainer
+.git
+.github
+.vscode
+.env.sample
+.gitignore
+.prettierignore
+.prettierrc.json
+LICENSE
 docker-compose.yml
-Dockerfile
 README.md
